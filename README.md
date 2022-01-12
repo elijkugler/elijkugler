@@ -1,0 +1,5 @@
+-Hi, I’m @elijkugler
+-I’m interested in ... Developing a marketplace for investments that encourage community ownership and continual reinvestment
+-I’m currently learning ... C#... coding in general
+-I’m looking to collaborate on ... DAOs - Agricultural Tech Revolution
+-How to reach me ... eli.j.kugler@outlook.com
