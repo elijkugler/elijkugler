@@ -1,5 +1,4 @@
 -Hi, I’m @elijkugler
--I’m interested in ... Developing a marketplace for investments that encourage community ownership and continual reinvestment
--I’m currently learning ... C#... coding in general
--I’m looking to collaborate on ... DAOs - Agricultural Tech Revolution
--How to reach me ... eli.j.kugler@outlook.com
+-I’m interested in accelerating innovation through connecting all stakeholders in the software development pipeline
+-You can reach my via email @ eli.j.kugler@outlook.com or on LinkedIn @ https://www.linkedin.com/in/eli-kugler/
+-I am passionate about democratizing data and decision making, agricultural internet of things, and open source projects
